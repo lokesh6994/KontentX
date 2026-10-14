@@ -1,2 +1,4 @@
 # KontentX
-AI Content Creator Marketplace — a website designed to connect brands and clients with suitable content creators through AI-powered features. 
+KontentX is an AI-powered creator marketplace connecting brands with content creators. Discover creators through smart matching, generate campaign briefs and proposals, manage collaborations, track milestones, verify creator profiles, handle commercial rights, receive notifications, and analyze campaign performance—all in one platform.
+Technologies: React, Node.js, MongoDB, AI, MERN Stack
+Repository: [View Project](https://github.com/gunnampalliteja/KontentX)
